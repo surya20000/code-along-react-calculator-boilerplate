@@ -1,0 +1,8 @@
+*{
+    text-align: center;
+}
+.cont{
+    grid-column: 1 / -1;
+  padding: .75rem;
+
+}
